@@ -56,6 +56,7 @@ Calculate Quantity by Product
 Create Visualizations
         ↓
 Generate Business Insights
+```
 
 📈 Analysis Performed
 
